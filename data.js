@@ -43,4 +43,8 @@ var people = [
     name: 'Josh',
     githubUsername: 'joshkmanj'
   },
+  {
+    name: 'dog',
+    githubUsername: 'Dog'
+  },
 ];
